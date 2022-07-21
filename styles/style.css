@@ -9,8 +9,10 @@ h1 {
   text-align: center;
 }
 
+p {
+color: red;
+}
 p, li {
-  color: red
   font-size: 16px;  
   line-height: 2;
   letter-spacing: 1px;
