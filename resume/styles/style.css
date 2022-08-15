@@ -55,6 +55,7 @@ p {
 header {
   grid-area: header;
   text-align: center;
+  column-span: all;
 }
 
 .left{
